@@ -1,14 +1,18 @@
-# Projeto Api de Posts
+## Projeto: Posts
 
-Projeto desenvolvido durante o Curso B7Web.
+**Tecnologias utilizadas:**
 
-Tecnologias utilizadas: React + TypeScript.
+- [Typescript]()
+- [Axios]()
+- [React Navigation]()
+- [Styled Components]()
+- [React Router Dom]()
 
-### Instalação:
+## Instalação:
 
-- `npm install`
+- `npm create vite@latest`
+- `npm i ou npm install`
 
-### Para rodar:
+## Para rodar:
 
-- `npm start`
-- `npm run start`
+- `npm run dev`
